@@ -8,18 +8,4 @@ QualityPrompts implements 58 prompting techniques explained in [this survey from
 ```bash
 pip install quality-prompts
 
-## 2. Write the components of your prompt
-```bash
-from quality_prompts.prompt import QualityPrompt
-
-directive = "You are given a document and your task..."
-additional_information = "In the knowledge graph, ..."
-output_formatting = "You will respond with a knowledge graph in..."
-
-prompt = QualityPrompt(
-    directive,
-    additional_information,
-    output_formatting,
-    exemplar_store
-)
 
