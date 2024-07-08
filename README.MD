@@ -9,3 +9,6 @@ QualityPrompts implements 58 prompting techniques explained in [this survey from
 pip install quality-prompts
 
 
+## 2. Write the components of your prompt
+
+
