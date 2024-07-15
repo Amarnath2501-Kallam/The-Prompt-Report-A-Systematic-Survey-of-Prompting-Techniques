@@ -1,7 +1,7 @@
 # Write Quality Prompts
 ## Use and evaluate prompting techniques quickly.
 
-QualityPrompts implements 58 prompting techniques explained in [this survey from OpenAI, Microsoft, et al.](https://arxiv.org/pdf/2406.06608) 
+QualityPrompts implements 58 prompting techniques explained in [this survey from the University of Maryland in collaboration with researchers from OpenAI, Microsoft, etc.](https://arxiv.org/pdf/2406.06608) 
 
 ### 1. Install Quality Prompts:
 
